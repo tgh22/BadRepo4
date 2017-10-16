@@ -75,6 +75,7 @@ public class Cell {
 	    toReturn = '*';
 	} else {
 	    toReturn = ' ';
+
 	}
 	return toReturn;
     }
